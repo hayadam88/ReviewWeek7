@@ -1,7 +1,6 @@
-$(document).onReady();
+$(document).ready(onReady);
 console.log('ayy bb');
 
-onReady(){
+function onReady(){
     console.log('jQ');
-    
 }
